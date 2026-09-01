@@ -16,7 +16,7 @@
         "url": "https://github.com/omarmohelal/SecHelix.git"
       },
       "description": "Evidence-first application-security Agent Skill. Maps attack surfaces, selects applicable security hypotheses, independently verifies material findings, refutes false positives, fixes root causes, requires regression proof, and produces explicit release decisions.",
-      "version": "3.0.0-alpha.5",
+      "version": "3.2.0-alpha.1",
       "author": {
         "name": "SecHelix",
         "url": "https://sechelix.com"
